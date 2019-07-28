@@ -10,3 +10,7 @@
 .nav-link {
   font-family: "Poppins", sans-serif !important;
 }
+
+.pg-section {
+  padding: 0 !important;
+}
