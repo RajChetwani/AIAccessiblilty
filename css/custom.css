@@ -16,7 +16,7 @@
 }
 
 .page-section {
-  padding: 70px 0;
+  padding: 50px 0;
 }
 
 .intro-text {
@@ -28,4 +28,8 @@
     padding-top: 200px;
     padding-bottom: 200px;
   }
+}
+
+.pop {
+  font-family: "Poppins", sans-serif;
 }
