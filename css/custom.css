@@ -1,6 +1,6 @@
 .intro {
   font-family: "Poppins", sans-serif;
-  font-size: 2em;
+  font-size: 2.5em;
 }
 
 .navbar-brand {
@@ -13,4 +13,19 @@
 
 .pg-section {
   padding: 0 !important;
+}
+
+.page-section {
+  padding: 50px 0;
+}
+
+.intro-text {
+  padding-top: 100px;
+}
+
+@media (min-width: 768px) {
+  header.masthead .intro-text {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
 }
